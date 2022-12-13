@@ -1,2 +1,2 @@
-# next.amaratechit.com
+# client.amaratechit.com
 Corporate Site
